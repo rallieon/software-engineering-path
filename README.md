@@ -8,6 +8,14 @@ One thing I feel strongly about with people starting in software today: AI tools
 
 I put this plan together as a rough path through what I think that foundational layer looks like.
 
+Keep using AI tools — but use them as a tutor, not a crutch. When Claude or Copilot writes code, don't just accept it. Read every line. Ask "why this and not that?" The engineers I see getting the most out of AI tools are the ones who understand what the tools are actually doing. The fundamentals in this plan are what make those tools 10x more powerful in your hands.
+
+And remember — the goal isn't to learn everything. It's to learn enough to be dangerous, then keep learning on the job. The most pragmatic thing you can do is start building, get comfortable being wrong, ask for feedback early, and never pretend you know something you don't. That honesty is what earns trust on an engineering team, and it's a habit worth building from day one.
+
+I'm around if you get stuck or want to talk through any of this. And if you ever want to dig into something in depth — system design, a concept that's not clicking, whatever — I'm happy to sit down for a few hours over coffee or beers and work through it together.
+
+---
+
 ## What I Think Makes a Good Engineer
 
 Before getting into the plan itself, I want to share how I think about this. The best engineers I've worked with are not the ones who write the cleverest code. They're the ones who are pragmatic — they pick the simplest solution that actually works, they're honest about tradeoffs, and they can communicate clearly with people who aren't engineers. There's a great article by John Allspaw called ["On Being A Senior Engineer"](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) that captures this better than I can. His core point is that technical skill is necessary but not sufficient. What separates the engineers people want to work with is maturity: seeking out feedback instead of avoiding it, making tradeoffs explicit instead of hiding them, doing the unglamorous work without complaint, and lifting the people around you instead of just yourself. One line from it that stuck with me: *"The degree to which other people want to work with you is a direct indication of how successful you'll be in your career as an engineer."*
@@ -272,12 +280,3 @@ If you only buy three books across this entire plan, make it these:
 
 Everything else in this plan can be learned from YouTube and free online resources. These are worth buying.
 
----
-
-## One Last Thing
-
-Keep using AI tools — but use them as a tutor, not a crutch. When Claude or Copilot writes code, don't just accept it. Read every line. Ask "why this and not that?" The engineers I see getting the most out of AI tools are the ones who understand what the tools are actually doing. The fundamentals in this plan are what make those tools 10x more powerful in your hands.
-
-And remember — the goal isn't to learn everything. It's to learn enough to be dangerous, then keep learning on the job. The most pragmatic thing you can do is start building, get comfortable being wrong, ask for feedback early, and never pretend you know something you don't. That honesty is what earns trust on an engineering team, and it's a habit worth building from day one.
-
-I'm around if you get stuck or want to talk through any of this. And if you ever want to dig into something in depth — system design, a concept that's not clicking, whatever — I'm happy to sit down for a few hours over coffee or beers and work through it together.
